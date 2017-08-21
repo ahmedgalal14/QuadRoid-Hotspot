@@ -1,0 +1,11 @@
+<resources>
+    <style name="myTheme" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/textcolorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimaryInverse">@android:color/black</item>
+        <item name="android:colorBackground">@android:color/background_light</item>
+        <item name="android:colorForeground">@color/textcolorPrimary</item>
+    </style>
+</resources>
